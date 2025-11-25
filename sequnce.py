@@ -31,7 +31,7 @@ print(child_one[0]) #accessing tuple item by index start from 0
 
 #--------------------
 #dictionary -key:value-
-me = {'name':'Sondos''rahaf', 'major':'ECE', 'age': 21}
+me = {'name':'Sondos', 'major':'ECE', 'age': 21}
 print(type(me)) #dictionary is a data type
 print(me)
 print('My name is ', me['name']) #accessing dictionary value by key
